@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1606780528 source:d:\meus documentos\Área de trabalho\elo\programas\passagens_trem_pedro_schell\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
